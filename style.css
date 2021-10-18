@@ -1,0 +1,36 @@
+body {
+  width: 1440px;
+  background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+  font-family: "Inter", sans-serif;
+  margin-top: 7rem;
+  margin-left: 9rem;
+  background-color: hsl(244, 38%, 16%);
+  color: #fff;
+  border-radius: 10px;
+}
+
+img {
+  border-radius: 0px 10px 10px 0px;
+  width: 100%;
+  object-fit: cover;
+  opacity: 0.5;
+  overflow: hidden;
+}
+
+.image-page {
+  background: hsl(277, 84%, 34%);
+  border-radius: 0px 10px 10px 0px;
+}
+
+h2,
+h5 {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 300;
+  color: hsla(0, 0%, 100%, 0.75);
+}
