@@ -33,3 +33,9 @@ p {
   font-weight: 300;
   color: hsla(0, 0%, 100%, 0.75);
 }
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+  margin: 20px 0 -40px 0;
+}
