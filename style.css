@@ -1,12 +1,11 @@
 body {
-  width: 1440px;
   background-color: hsl(233, 47%, 7%);
 }
 
 .container {
   font-family: "Inter", sans-serif;
   margin-top: 7rem;
-  margin-left: 9rem;
+  margin-left: 6rem;
   background-color: hsl(244, 38%, 16%);
   color: #fff;
   border-radius: 10px;
